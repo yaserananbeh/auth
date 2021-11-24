@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import AdminPage from './AdminPage'
-import UserPage from './UserPage'
+import UserPage from './UserPage' 
 
 class HomePage extends Component {
     constructor(props){
